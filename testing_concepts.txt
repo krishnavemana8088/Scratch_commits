@@ -1,0 +1,49 @@
+Test case management tools:
+
+
+
+* Why we need test case management tool:
+
+--> To store hows the testing process is done
+--> It gives one view for all in the team how the process is going on
+--> It removes(minimizes) the duplicate data.
+
+
+
+*Advantages:
+-> Capturing requirements
+-> Designing test cases
+-> Creating test execution reports
+-> It allows you to create test plans for tracking progress
+-> Helps you to measure progress with informative dashboards and activity reports
+-> It improves test coverage, as it takes care of requirement management and test case creation and execution.
+-> It makes it simple for the team to view all the testing activities in a single application.
+-> It consolidates the execution report and gives us visual insights.
+-> It minimizes duplication in data.
+-> It should give testing managers a platform to plan, divide, organize, and delegate tasks to team members based on their skills and capabilities.
+-> A good test management software should provide robust tools to test every component of the testing cycle meticulously.
+-> It creates room for testers to run multiple tests on autopilot, thus saving time.
+-> Test management software should be flexible to be adapted to the unique demand of each project.
+
+
+
+example:
+
+
+
+Testpad – Best for finding bugs that matter most
+PractiTest – Best for precise results & flexibility
+Zephyr Enterprise – Best for speed and constantly improvement
+TestRail – Best for manage, track & organizing testing
+Xray – Best for quality management
+Testmo – Best-in-class reporting, metrics and real-time charts
+TestMonitor – Best for Real-time insights
+SpiraTest – Best for Parameterized test, test review, and scheduling
+
+
+
+Test case design::-
+
+
+
+it reefers to how to set up the test cases. test case design is also plays a keyrole in testing if we are not implement the proper design for test case
